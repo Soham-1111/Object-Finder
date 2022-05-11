@@ -39,3 +39,22 @@ canvas{
     border-width: 5px;
     
 }
+
+.button{
+    font-size:20px;
+    box-shadow: 5px 5px 15px white;
+    font-family: 'Luxurious Roman', cursive;
+}
+
+#footer{
+    width:100%;
+    bottom:0;
+    color:white; 
+    background-color: maroon;
+    line-height: 30px;
+    position:fixed; 
+    text-align:center; 
+    
+
+
+}
